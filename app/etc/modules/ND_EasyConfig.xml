@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ND_EasyConfig>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ND_EasyConfig>
+    </modules>
+</config>

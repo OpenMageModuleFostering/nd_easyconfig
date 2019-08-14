@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ND_EasyConfig",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "Easiest way to access System -> Configuration menu",
+    "authors": [
+    {
+        "name": "Nikul Doshi",
+        "email": "nikulonline@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
