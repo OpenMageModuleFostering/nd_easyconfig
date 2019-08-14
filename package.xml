@@ -1,18 +1,27 @@
 <?xml version="1.0"?>
 <package>
     <name>ND_EasyConfig</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <stability>stable</stability>
     <license>GNU General Public License (GPL)</license>
     <channel>community</channel>
     <extends/>
     <summary>Easiest way to access System -&gt; Configuration menu</summary>
-    <description>Easiest way to access System -&gt; Configuration menu</description>
+    <description>&lt;div&gt;This extension is useful to make easy access of System -&amp;gt; Configuration menu. &lt;br /&gt;&#xD;
+It will add sub-menu of all config sections in System menu on hover of configuration link. &lt;br /&gt; You can still open configuration link or also can direct reach to particular section of configuration.&lt;/div&gt;&#xD;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;&#xD;
+&lt;h2&gt;Features&lt;/h2&gt;&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;Easy to integrate with default admin menu&lt;/li&gt;&#xD;
+&lt;li&gt;Display all sub-menu items of system -&amp;gt; configuration section&lt;/li&gt;&#xD;
+&lt;li&gt;Easy to reach any configuration setting by one click&lt;/li&gt;&#xD;
+&lt;li&gt;100% open source&lt;/li&gt;&#xD;
+&lt;/ul&gt;</description>
     <notes>Easiest way to access System -&gt; Configuration menu</notes>
     <authors><author><name>Nikul Doshi</name><user>nikulonline</user><email>nikulonline@gmail.com</email></author></authors>
-    <date>2016-01-30</date>
-    <time>11:05:40</time>
-    <contents><target name="magelocal"><dir name="ND"><dir name="EasyConfig"><dir name="Block"><dir name="Adminhtml"><dir name="Page"><file name="Menu.php" hash="c06db2a55d1ffc156819786e663654d1"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="f853f51de8a9ad5242f446c0a9272f19"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="ND_EasyConfig.xml" hash="5b8d7a1f322e7240d15b9b559631defc"/></dir></target></contents>
+    <date>2016-02-29</date>
+    <time>08:32:13</time>
+    <contents><target name="magelocal"><dir name="ND"><dir name="EasyConfig"><dir name="Block"><dir name="Adminhtml"><dir name="Page"><file name="Menu.php" hash="c06db2a55d1ffc156819786e663654d1"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="77d5fcbd65fedf767b9406209087afc4"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="ND_EasyConfig.xml" hash="5b8d7a1f322e7240d15b9b559631defc"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
